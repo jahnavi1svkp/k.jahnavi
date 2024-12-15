@@ -1,6 +1,4 @@
 package jr_developer;
-
-
 	public class KIA_AirBags {
 		
 		public void disp_AirBags()
